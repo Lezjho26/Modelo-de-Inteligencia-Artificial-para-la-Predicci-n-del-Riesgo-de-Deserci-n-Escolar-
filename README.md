@@ -58,6 +58,6 @@ Este proyecto se distribuye bajo la Licencia MIT. Eres libre de usar, modificar 
 ## Contacto
 
 Lezly Jhovanna Carmona Saavedra  
-lezjho01@gmail.com
-https://github.com/lezjho26
+|lezjho01@gmail.com|
+|https://github.com/lezjho26/Modelo-de-Inteligencia-Artificial-para-la-Predicci-n-del-Riesgo-de-Deserci-n-Escolar-|
 
